@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.rommerfy.rommermod.overlay"
+          android:versionCode="1"
+          android:versionName="1.0">
+    <overlay android:targetPackage="com.android.settings"
+            android:targetName="Settings"
+             android:priority="512"
+             android:isStatic="true" />
+</manifest>
