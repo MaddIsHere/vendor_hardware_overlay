@@ -14,7 +14,6 @@
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
     <bool name="config_dozePulsePickup">false</bool>
     <bool name="config_wifi_connected_mac_randomization_supported">true</bool>
-    <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
     <bool name="config_wifi_p2p_mac_randomization_supported">true</bool>
     <bool name="config_intrusiveNotificationLed">true</bool>
 </resources>
