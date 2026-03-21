@@ -3,6 +3,6 @@
         android:versionCode="1"
         android:versionName="1.0">
         <overlay android:targetPackage="android"
-        android:priority="65"
+        android:priority="9999"
         android:isStatic="false"/>
 </manifest>
